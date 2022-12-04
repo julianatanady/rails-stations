@@ -1,4 +1,4 @@
-# TechTrain Rails Railway について
+# TechTrain Rails Railway 
 
 Railway ではVSCodeの拡張機能を使ってクリア判定を行います。この際、Station の内容に即した実装になっているかを最低限のラインとして確認します。
 テストが通れば Station クリアとなります。
